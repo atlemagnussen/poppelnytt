@@ -1,8 +1,10 @@
 ---
 lang: nb-NO
 title: PoppelNytt nr 1 1999
-description: Poppel root description
+description: PoppelNytt nr 1 1999 utgave
 ---
+
+ÅÅÅ Kjøp en GAG-genser på traktorsjappa i dag.Knallpris. Ca 57 kr.Resultat-LUT - gir resultat. Les mere  PoppelNytt!! Olssons Grovsalt - bra traktorsnacks!!! Traktorbensin til salgs på torget - garantert uten lut. Kun 57 kr for 57 liter, men kun i 57 l. Dunkar. Gi penger til PoppelNytt!!!!! Legges i ei postkasse merka -57 INFO 57-
 
 Til dykk som fortsatt ikkje har betalt abbonement, og ei har planar om å gjere det heller, kan gjerne berre fortsete å gjera det slik. Dykk vil då få besøk av Finn-Geir Stund, inkasso mannen, han vil ikkje gjera noko som kvapp, utenom å besøkja dykk. Rassgeirs Luta Lut... sponsar PoppelNytt med nytt anleggj. året 1999 er sovidt stabla på føtene men Poppelnytt har allereie samla opp masse poppel. Her er årets fyrste poppel:
 
