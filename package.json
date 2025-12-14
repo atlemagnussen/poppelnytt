@@ -5,6 +5,8 @@
   "scripts": {
     "start": "vitepress dev press",
     "build": "vitepress build press",
-    "preview": "vitepress preview press"
+    "preview": "vitepress preview press",
+    "deploy:firebase": "firebase deploy --only hosting:poppelnytt",
+    "deploy": "npm run build && npm run deploy:firebase"
   }
 }

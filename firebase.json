@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "poppelnytt",
+    "public": "./press/.vitepress/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
