@@ -1,13 +1,16 @@
 import { defineConfig } from "vitepress"
 
 export default defineConfig({
+  head: [
+    ["link", { rel: "icon", type:"image/png", href: "https://storage.googleapis.com/static-logout/poppel/favicon.png" }]
+  ],
   title: "PoppelNytt",
   description: "PoppelNytt Luta NYTT!",
   themeConfig: {
     nav: [
       { text: "Heim", link: "/" },
     ],
-
+    logo: "https://storage.googleapis.com/static-logout/poppel/favicon.png",
     sidebar: [
       {
         text: "Arkiv",

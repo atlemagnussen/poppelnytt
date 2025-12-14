@@ -6,6 +6,9 @@ hero:
   name: "PoppelNytt"
   text: "Godt Luta NYTT!"
   tagline: Sponsorar Olssons Grovsalt, Raske Rassgeirs Luta Lut, Tomte Fryseri, Finn-Geir Stund (advokat)
+  image:
+    src: https://storage.googleapis.com/static-logout/poppel/poppel.png
+    alt: PoppelNytt
 ---
 
 # Poppel Arkivet
