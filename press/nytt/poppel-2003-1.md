@@ -4,6 +4,8 @@ title: PoppelNytt nr 1 2003
 description: PoppelNytt nr 1 2003 utgave
 ---
 
+# PoppelNytt nr 1 - 2003
+
 PoppelNytt, det einaste tidskriftet.  
 Olson’s Grovsalt, saltare kan det ikkje bli før du brekk deg. Han Advokat Finngeir Stund tek saka for deg, uansett om du er skurk eller sivil. Gru Gro Båtfabrikk, treng du ein Blip Båt, spør oss. Svak i trua? Vi gjer trua sterkare for deg, Gerhards Gassgrill. (9)
 

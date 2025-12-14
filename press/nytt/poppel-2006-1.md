@@ -4,6 +4,8 @@ title: PoppelNytt nr 1 2006
 description: PoppelNytt nr 1 2006 utgave
 ---
 
+# PoppelNytt nr 1 - 2006
+
 Foxbones Procuctions, etter opplæring i CERN, et perfekt valg for innstall of CABLE-TV.  
 Raske Rassgeirs Luta Lut, nå med mere Lut. Hele 57% mer. Ja  
 Vestlandsnytt, Ei Drit Avis, Bruk Oss Som Dasspapir. (annonsen betalt av PoppelNytt)

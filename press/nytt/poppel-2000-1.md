@@ -4,6 +4,7 @@ title: PoppelNytt nr 1 2000
 description: PoppelNytt nr 1 2000 utgave
 ---
 
+# PoppelNytt nr 1 - 2000
 
 SAMKERSH, NÅ UTE MED NY  MODELL!! RASSGEIRS…….. LUTA LUT! BETRE ENN RENS!! TOMTE FRYSERI ER BEST
 

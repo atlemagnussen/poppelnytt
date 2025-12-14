@@ -4,6 +4,8 @@ title: PoppelNytt nr 2 1999
 description: PoppelNytt nr 2 1999 utgave
 ---
 
+# PoppelNytt nr 2 - 1999
+
 Nytt PoppelNytt Poppel Gammalt, nei Nytt. Raske Raskeir’s Luta LUT. Kagga’s nye film: Tipp Kashnak Rahni Førde 2.  
 <b>Special PoppelPåpp(ov) med 2 sider!</b>  
 Dette er PoppelNytt, om dykk kan lese overskrifta. Og her er første nyhende:

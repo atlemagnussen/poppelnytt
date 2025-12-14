@@ -4,6 +4,8 @@ title: PoppelNytt nr 2 2000
 description: PoppelNytt nr 2 2000 utgave
 ---
 
+# PoppelNytt nr 2 - 2000
+
 Nu er det blivet så meget surnere..Det nye slagordet åt Tomte Fryseri!! Raske Rassgeirs Luta Lut, bedre enn frekk-egg. Kjøp ekte GRUS stengre hos FIDOs kaffibar. Nytt band: Gropji(8 –kjøp!) Tygg OLSSONS grovsalt, bedre enn smjor. Les PoppelNytt –bedre enn  PoppelGammalt. Kjøp spy, kun 57 kr for 1 ½ liter!
 
 Som dykk ser er PoppelNytt tilbake med ny utgåve av dette tidløse tidskrift!  

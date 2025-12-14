@@ -4,6 +4,8 @@ title: PoppelNytt nr 4 2000
 description: PoppelNytt nr 4 2000 utgave
 ---
 
+# PoppelNytt nr 4 - 2000
+
 RASSGEIRS LUTA LUT, BETRE BLIR DET AV OG TIL!  
 JOLESPESIALVERSJON AV PoppelNytt 2000 YEYEYEYE!
 

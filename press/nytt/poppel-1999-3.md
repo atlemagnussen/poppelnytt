@@ -4,6 +4,8 @@ title: PoppelNytt nr 3 1999
 description: PoppelNytt nr 3 1999 utgave
 ---
 
+# PoppelNytt nr 3 - 1999
+
 Nå endelig og enda sterkare tilbake: PoppelNytt….Raske Rassgeir’s Luta Lut…  
 Helle Traktorsørvis: Salen Står klar!!!!……Kloop Kaffii: Nå med gluten…Finngeirs Advokatbyrå. ….Vi tar skurken for deg……Nittedals våpenhytter og skur: GARANTERT bra nyttårskos..WOW!
 

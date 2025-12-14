@@ -4,6 +4,7 @@ title: PoppelNytt nr 3 2000
 description: PoppelNytt nr 3 2000 utgave
 ---
 
+# PoppelNytt nr 3 - 2000
 
 Nytt og ferskt PoppelNytt, nye sponsorar Trond’s Pepper (i hånd) og torre ender.  
 Kjepp og kjøyr kran cervise

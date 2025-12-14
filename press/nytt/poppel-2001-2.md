@@ -4,6 +4,8 @@ title: PoppelNytt nr 2 2001
 description: PoppelNytt nr 2 2001 utgave
 ---
 
+# PoppelNytt nr 2 - 2001
+
 Olsons Grosvsalt, salt som salt og nå  med syre. Samkersh, ein ny modell 5757 Hi Trol. Tomte fryseri, vi frys fisken for deg. Nytt Frima: Klåpp, ekspert på humle og malt. Treng du å få sprengt vekk litt småstein og grus? Ring Julekrut og Sprengstoff A/S. Brako, ein låssmed. PvG bryggerier, ny serie av bryggevarer: KLAR LET MED SMAK. 5.7-57% vol alc
 
 Det har skjedd mykje Poppel i det siste, og vil du vite kva poppel det er snakk om, er det berre EI blekke du kan få lese om det, nemleg PoppelNytt. Vi kom tilbake når vi gadd, og det er nå. Nu er verkeleg tidi her!  

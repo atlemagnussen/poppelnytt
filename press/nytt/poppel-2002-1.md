@@ -4,6 +4,8 @@ title: PoppelNytt nr 1 2002
 description: PoppelNytt nr 1 2002 utgave
 ---
 
+# PoppelNytt nr 1 - 2002
+
 PoppelNytt, skal vi skifte navn til PoppelNews? Avstemning, ring 57755757 og sei di meining! Rassgeirs Rusa Midd, eit alternativ til GOLLfisk! Knips på svarte ark, eit kunstmuseum med stil.
 
 Ja nu er sumaren komen, og PoppelNytt har nå fått trykka opp eit sumareksemplar. Poppel skortar det neimen ikkje på, och her er det:

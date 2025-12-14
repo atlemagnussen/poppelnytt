@@ -4,6 +4,8 @@ title: PoppelNytt nr 2 2002
 description: PoppelNytt nr 2 2002 utgave
 ---
 
+# PoppelNytt nr 2 - 2002
+
 Ny rulle-tobakkj i salg på knut’n: Klobakk(grafs) – sel også snus til å putte i sår, Lyst på ny sykkel? Brekk-kompagniet gir deg ein på betingelse.krav:57, Har du planar om å bygge deg traktorsal? kontakt popov han har kjetting og hengelås, drikk køik sunt og jævlig, RASKE RASSGEIR er enda ikkje utsolgt for lut! Nu 2 kagger til prisen for stinger, OLSSONS GROVSALT i år grovare enn nokon sinne! Du kan faktisk høyre at kornna greve og brekkje på tennene! Mykje eller lite? Midtimellom (8), skal du ha sølevatn med granbar og snop? Kjøp kjøp på kopo, nitedal fyrstikk og sprengstoff fikser nyårsfeiringa di (nabolagherp).
 
 PoppelNytt er no tilbake med Julenummer (spesial):  
