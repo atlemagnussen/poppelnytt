@@ -2,8 +2,6 @@
 lang: nb-NO
 title: PoppelNytt nr 3 1999
 description: PoppelNytt nr 3 1999 utgave
-prev: { text: "1999 utgåve 2", link: "./poppel-1999-2" }
-next: { text: "2000 utgåve 1", link: "./poppel-2000-1" }
 ---
 
 # PoppelNytt nr 3 - 1999

@@ -2,7 +2,6 @@
 lang: nb-NO
 title: PoppelNytt nr 1 1999
 description: PoppelNytt nr 1 1999 utgave
-next: { text: "1999 utgåve 2", link: "./poppel-1999-2" }
 ---
 
 # PoppelNytt nr 1 - 1999
