@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress"
+import { pagefindPlugin } from "vitepress-plugin-pagefind"
 
 export default defineConfig({
   head: [
@@ -86,5 +87,13 @@ export default defineConfig({
     socialLinks: [
       { icon: "facebook", link: "https://www.facebook.com/pvg57" }
     ]
+  },
+  vite: {
+    plugins: [pagefindPlugin({
+      btnPlaceholder: 'Søkj',
+      placeholder: 'Søk Poppel!',
+      emptyText: 'Skriv inn',
+      heading: 'result: {{searchResult}}',
+    })]
   }
 })
