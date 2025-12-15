@@ -8,5 +8,8 @@
     "preview": "vitepress preview press",
     "deploy:firebase": "firebase deploy --only hosting:poppelnytt",
     "deploy": "npm run build && npm run deploy:firebase"
+  },
+  "dependencies": {
+    "pagefind": "^1.4.0"
   }
 }

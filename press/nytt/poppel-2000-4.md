@@ -2,6 +2,8 @@
 lang: nb-NO
 title: PoppelNytt nr 4 2000
 description: PoppelNytt nr 4 2000 utgave
+prev: { text: "2000 utgåve 3", link: "./poppel-2000-3" }
+next: { text: "2001 utgåve 1", link: "./poppel-2001-1" }
 ---
 
 # PoppelNytt nr 4 - 2000

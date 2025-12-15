@@ -10,6 +10,13 @@ export default defineConfig({
     nav: [
       { text: "Heim", link: "/" },
     ],
+    search: {
+      provider: "local"
+    },
+    docFooter: {
+      prev: "førrige poppelNytt",
+      next: "neste poppelNytt"
+    },
     logo: "https://storage.googleapis.com/static-logout/poppel/favicon.png",
     sidebar: [
       {

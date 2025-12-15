@@ -2,6 +2,8 @@
 lang: nb-NO
 title: PoppelNytt nr 1 2004
 description: PoppelNytt nr 1 2004 utgave
+prev: { text: "2003 utgåve 1", link: "./poppel-2003-1" }
+next: { text: "2006 utgåve 1", link: "./poppel-2006-1" }
 ---
 
 # PoppelNytt nr 1 - 2004
