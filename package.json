@@ -10,6 +10,7 @@
     "deploy": "npm run build && npm run deploy:firebase"
   },
   "dependencies": {
+    "@cynber/vitepress-valence": "^0.2.2",
     "pagefind": "^1.4.0",
     "vitepress-plugin-pagefind": "^0.4.17"
   }

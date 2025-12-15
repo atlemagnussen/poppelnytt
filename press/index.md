@@ -25,3 +25,7 @@ hero:
 [PoppelNytt 2003 utgåve 1](nytt/poppel-2003-1.html)  
 [PoppelNytt 2004 utgåve 1](nytt/poppel-2004-1.html)  
 [PoppelNytt 2006 utgåve 1](nytt/poppel-2006-1.html)  
+
+## Special
+
+[Nyttår 05 bilde-special](special/nyttaar-05)

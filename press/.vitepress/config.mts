@@ -81,6 +81,16 @@ export default defineConfig({
             link: "poppel-2006-1.md"
           }
         ]
+      },
+      {
+        text: "Special",
+        base: "/special/",
+        items: [
+          {
+            text: "Nyttaar 2005",
+            link: "nyttaar-05.md"
+          }
+        ]
       }
     ],
 
@@ -89,11 +99,12 @@ export default defineConfig({
     ]
   },
   vite: {
+    ssr: { noExternal: ['@cynber/vitepress-valence']},
     plugins: [pagefindPlugin({
-      btnPlaceholder: 'Søkj',
-      placeholder: 'Søk Poppel!',
-      emptyText: 'Skriv inn',
-      heading: 'result: {{searchResult}}',
+      btnPlaceholder: "Søkj",
+      placeholder: "Søk Poppel!",
+      emptyText: "Skriv inn",
+      heading: "result: {{searchResult}}",
     })]
   }
 })
