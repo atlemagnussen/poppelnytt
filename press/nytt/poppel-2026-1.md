@@ -1,7 +1,7 @@
 ---
 lang: nb-NO
 title: PoppelNytt nr 1 2026
-description: PoppelNytt nr 1 2006 utgave
+description: PoppelNytt nr 1 2026 utgave
 ---
 
 # PoppelNytt nr 1 - 2026
