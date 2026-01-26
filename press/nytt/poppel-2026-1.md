@@ -7,6 +7,23 @@ description: PoppelNytt nr 1 2026 utgave
 # PoppelNytt nr 1 - 2026
 
 KLADD!
+PoppelNytt
+SPONSOR START
+Raske Rassgeir's Lut: Lut lei lut men produserar fortsatt LUT til leige.
+Olsons Grovsalt: Grovt nok til å salte flesk mens grisen oinkar.
+Finn-Geir Stund Inkasso: Betalar ikkje du, betalar andre for deg. 
+(Annonse betalt av PoppelNytt*)
+*Vestlandsnytt går konk om meir kristen-nytt kjem på trykk. 
+(Annonse betalt av PoppelNytt*)
+SPONSOR SLUTT
+
+
+HER ER FYRSTE NESTE POPPEL:
+
+RULLEPRESS PÅ PARTY:
+Det var på seinaste kvelden før 13. dag Yule, og etter fire dagar før slåstparken fikk eiga nemd,
+at 4 karar satt i ein sofa og joika på på leppene etter tekst på skjerm som sa: "JOIK MED, MEN IKKJE FØR TAKTA SLÅR 4". Men ingen ta dei fire laga let, dei bærre dibba med leppene og klaska dei rundt trutar med flaskeøl, av typen KONNJ, inna olden der. Dei sleva sopass nedover sjølvaste flaskehalsen, at flaskeøla blei vanskeleg å bære åt i sterke nevar, og dei bærre skvoppa ut or nevane pga. sleipheit. Då sa Oswald, partydeltakar 1, at dei konnde hellder bærre rolle litt tobakk. Det var samtlige einige om ville bli eit bedre party. Så Trevor blei tvungen til å rolle rondt på gulvet, men han villde ikkje. 
+
 
 PoppelNytt returnerar! Den mest uforutsigbare avisa du har (ikkje) sett døyr såklårt aldrig. Vi har berre låge på frys (forestill deg eit lik i et enmanns-telt, med kyllinglåg utfor opninga på festival, som plutseleg reisar seg opp og burjar å klage på fiktive briller som skal ha vore flytta på)
 
