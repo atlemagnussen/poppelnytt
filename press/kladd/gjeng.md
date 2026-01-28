@@ -1,3 +1,6 @@
+---
+pagefind-indexed: false
+---
 
 Ein gjeng stod oppstilt i gjeng-formasjon i lange finlandshetter litt utfør ein heller shabby parkeringsplass, litt oppi lia/halvvegs opp i skauen. Næraste nabo ei campingvogn kor dei såg med EIN GONG at vart kokt sprit. Eigaren hadde ingen nokon sinne sett, ergo optimal åstad! Men for kva? I midten var det satt opp ei kanne bens. Dei hadde kome over Svartbok Kapitel 57 på det lokale biblioteket og lese om korleis ein kunne forvandle geitepiss ut or spy. Spy hadde dei ei nei, så dei raida Oswald Trane si morbide samling- Extra Grøn-oktan 666. Dette blir sakerr!  
 For å mane fram geitepisset måtte det kraftig liming av granbar samtidig med framføring av mantraet "whuuuuuuuuu" skingrande med klår patos av angst. Deretter eit parti "oi oi" etterfulgt av offing, ypping "hoi!", og til slutt ei let (nazi-punk). Finala bestod av støvsug type manisk for å skape statisk mens ein flekka ut ein zippo som såg ut som ein granat. Måtte være bra klang ellers måtte heile dekelskapen startas på ny! På sida av det heile måtte det stå en laks med ihelkokte lus. Deretter skulle dei sette fyr på spyet. Naturlig nok vart dette ein stor suksess, så neste Poppel:

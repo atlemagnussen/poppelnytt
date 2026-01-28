@@ -104,7 +104,7 @@ export default defineConfig({
       btnPlaceholder: "Søkj",
       placeholder: "Søk Poppel!",
       emptyText: "Skriv inn",
-      heading: "result: {{searchResult}}",
+      heading: "result: {{searchResult}}"
     })]
   }
 })
