@@ -20,11 +20,12 @@ Sverre Black and carry. BLAAAaaahhhck mondag året rundt! Alt er lempa så tilfe
 (Annonse betalt av PoppelNytt*). 
 SPONSOR SLUTT
 
-
 Trudde du PoppelNytt var død? Vi har berre låge på frys (forestill deg ca eit lik i telt, med kyllingflesk i opninga, som plutseleg reisar seg opp og burjar å klage på fiktive briller skal ha vore flytta på)
 
+SÅ FØRSTE POPPEL
+
 Ein mann stod opp grytidlig grunna ei beluga-sammenlignbar lyst på KJØT! Her var det å kome seg ut dørene, men blei raskt stogga då trappa var sarva ned i krit og teip. Netsi blitza nyhenda som om det var eit inferno. Mekanisk stigande hunger, solbriller og ein mikstur av hermetikk-slo og sneip, hit med en chips! Rennafart og swooosj var han ned trappene til stor stingjer!  
-Men her vart alt så meget verre. Pesing av dogga siluett gjennom frosting, kva var dett? eit geni av brillegrev stod frenetisk å dirka på døra med nagglar og gripeklør, samtidig som han pugga gloser. Han meinte å ha rett på å kome inn på ein fest uinvitert og hadde holdt på sida Jol (57 dagar i strekk!). Nemda visste ikkje anna råd enn massiv inngrep av teip, men i eit byks tok den gråbein-hungrige karen fatt på eit rep med grep fletta med klepp og fekk jekka dirkaren halvvegs opp på taket. Geniet klamra seg fast i ei tysk glosebok som eit jarn, einaste resultat var (whooops) Faaaaaaan - det RAUSA porno ut or han.
+Men her vart alt så meget verre. Pesing av dogga siluett gjennom frosting, kva var dett? Eit geni av brillegrev stod frenetisk å dirka på døra med nagglar og gripeklør, samtidig som han pugga gloser. Han meinte å ha rett på å kome inn på ein fest uinvitert og hadde holdt på sida Jol (57 dagar i strekk!). Nemda visste ikkje anna råd enn massiv inngrep av teip, men i eit byks tok den gråbein-hungrige karen fatt på eit rep med grep fletta med klepp og fekk jekka dirkaren halvvegs opp på taket. Geniet klamra seg fast i ei tysk glosebok som eit jarn, men einaste resultat var: (whooops) Faaaaaaan - det RAUSA porno ut or han.
 Så til neste poppel:
 
 RULLEPRESS PÅ PARTY:
